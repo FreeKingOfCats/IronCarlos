@@ -1,5 +1,6 @@
 Holaaaa, bienvenido a la nueva rama!
 
+<<<<<<< HEAD
 To do:
 
 Life
@@ -8,3 +9,7 @@ Lifu
 Lifini
 Lifuschi
 Lifuski
+Clases
+Practicas
+Aprendizajes
+Ejecuciones de lo aprendido
